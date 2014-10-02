@@ -2,6 +2,10 @@ import java.util.*;
 
 class bank{
 	public static void main(String[]args){
+			System.out.println("\t 			HALO SELAMAT DATANG DI BANK ANDA			");
+			System.out.println("\t =====================================================");
+			System.out.println("\t = 		SILAHKAN MELAKUKAN TRANSAKSI				=");
+			System.out.println("\t =		PILIH TRANSAKSI :             				=");
 		int saldo = 200000;
 		Scanner scan = new Scanner (System.in);
 		
